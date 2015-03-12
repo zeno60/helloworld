@@ -1,0 +1,16 @@
+{
+  "name": "lunchenator",
+  "version": "0.0.1",
+  "description": "A simple application to pick the best place for lunch.",
+  "dependencies": {
+    "express": "^4.11.2",
+    "socket.io": "^1.3.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "kevin jamieson",
+  "license": "ISC"
+}
